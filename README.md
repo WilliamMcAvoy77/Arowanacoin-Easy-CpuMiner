@@ -1,5 +1,5 @@
 # Arowanacoin-Easy-CpuMiner
-Toy mining project for newbies of arwn.  
+Easy Mining Project for newbies of arwn.  
 
 Note:  
 The miners are based on bins of rplant.xyz at this time.  
